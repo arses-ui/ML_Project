@@ -12,18 +12,24 @@ This is a project that uses machine learning tools to conduct a sentiment analys
 ```bash
 git clone https://github.com/arses-ui/ML_Project.git
 cd your-repository-name
+```
 
 2. Create and activate a virtual environment:
+```bash
 python -m venv venv 
 a. source venv/Scripts/activate # For Windows + Git Bash or WSL
 b. venv\Scripts\activate #For Windows Command Prompt 
-c. venv/bin/activate #For Mac/Linux 
+c. venv/bin/activate #For Mac/Linux
+```
 
 3. Install requried packages:
+```bash
 pip install -r requirements.txt 
- 
-4. Run the Project:  
-python main.py 
+ ```
+5. Run the Project:
+```bash
+python main.py
+```
 
 ## Output 
 The script outputs submission.csv, which can be uploaded directly to Kaggle for evaluation.
