@@ -2,12 +2,12 @@
 This is a project that uses machine learning tools to conduct a sentiment analysis using a Kaggle dataset. It performs hyperparameter tuning using grid search to find the best model parameters and generate predictions for Kaggle submission.
 
 
-##Table of Contents 
+## Table of Contents 
 -[Installation](#installation) <br>
 -[Usasge](#usage) <br>
 -[Features](#features) <br>
 <br>
-##Installation<br>
+## Installation<br>
 1. Clone the repository:<br>
 '''bash<br>
 git clone https://github.com/arses-ui/ML_Project.git<br>
@@ -25,14 +25,14 @@ pip install -r requirements.txt<br>
 4. Run the Project: <br> 
 python main.py <br>
 <br>
-##Output <br>
+## Output <br>
 The script outputs submission.csv, which can be uploaded directly to Kaggle for evaluation.<br>
 <br>
-##Dependencies<br>
+## Dependencies<br>
 - Python 3.x <br>
 - Packages listed in requirements.txt <br>
 <br>
-##Author <br>
+## Author <br>
 Arses Prasai -[Github](https://github.com/arses-ui)
 -                                  
 
