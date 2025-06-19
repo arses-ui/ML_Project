@@ -9,7 +9,7 @@ This is a project that uses machine learning tools to conduct a sentiment analys
 <br>
 ## Installation<br>
 1. Clone the repository:<br>
-'''bash<br>
+''' bash<br>
 git clone https://github.com/arses-ui/ML_Project.git<br>
 cd your-repository-name<br>
 <br>
@@ -32,7 +32,6 @@ The script outputs submission.csv, which can be uploaded directly to Kaggle for 
 - Python 3.x <br>
 - Packages listed in requirements.txt <br>
 <br>
-## Author <br>
-Arses Prasai -[Github](https://github.com/arses-ui)
--                                  
+## Author<br>
+Arses Prasai -[Github](https://github.com/arses-ui)                          
 
