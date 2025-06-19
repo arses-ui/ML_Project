@@ -13,7 +13,6 @@ git clone https://github.com/arses-ui/ML_Project.git<br>
 cd your-repository-name<br>
 <br>
 2. Create and activate a virtual environment:<br>
-<br>
 python -m venv venv <br>
 a. source venv/Scripts/activate # For Windows + Git Bash or WSL<br>
 b. venv\Scripts\activate #For Windows Command Prompt <br>
