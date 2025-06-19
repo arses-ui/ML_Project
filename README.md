@@ -9,7 +9,7 @@ This is a project that uses machine learning tools to conduct a sentiment analys
 <br>
 ##Installation<br>
 1. Clone the repository:<br>
-'''bash
+'''bash<br>
 git clone https://github.com/arses-ui/ML_Project.git<br>
 cd your-repository-name<br>
 <br>
